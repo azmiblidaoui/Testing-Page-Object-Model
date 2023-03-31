@@ -1,4 +1,4 @@
 class TestData:
-    url = ""
-    username = ""
-    password = ""
+    url = "https://opensource-demo.orangehrmlive.com/"
+    username = "Admin"
+    password = "admin123"
